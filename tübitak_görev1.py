@@ -4,7 +4,6 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from skimage import io
 import pywt
-import tifffile
 from sklearn.decomposition import PCA
 from skimage.exposure import match_histograms
 from scipy import signal
